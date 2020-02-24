@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dfce8d7-81f9-4852-99b0-6491b1eba014" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X2D4YmYm8CIkK3ZyWVNDmOvaPh" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kafka-consumer-elastic-search/src/main/java/com/vivekchutke/kafka/elasticsearch" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vivekchutke.explorekafka.tutorial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kafka-consumer-elastic-search/src/main/java/com/vivekchutke/kafka/elasticsearch" />
+      <recent name="$PROJECT_DIR$/kafka-propducer-twitter/src/main/java" />
+      <recent name="$PROJECT_DIR$/kafka-basics/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ElasticSearchConsumerByVivek">
+    <configuration name="ConsumerDemoAssignAndSeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vivekchutke.explorekafka.tutorial.ConsumerDemoAssignAndSeek" />
+      <module name="apache-kafka-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivekchutke.explorekafka.tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchConsumerByVivek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vivekchutke.kafka.elasticsearch.ElasticSearchConsumerByVivek" />
+      <module name="kafka-consumer-elastic-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivekchutke.kafka.elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vivekchutke.explorekafka.tutorial.ProducerDemo" />
+      <module name="kafka-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivekchutke.explorekafka.tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.vivekchutke.twitterfeed.kafkademo.TwitterProducer" />
+      <module name="kafka-producer-twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.vivekchutke.twitterfeed.kafkademo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.vivekchutke.twitterfeed.kafkademo.TwitterProducer" />
+      <module name="apache-kafka-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.vivekchutke.twitterfeed.kafkademo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerDemoAssignAndSeek" />
+      <item itemvalue="Application.TwitterProducer" />
+      <item itemvalue="Application.ProducerDemo" />
+      <item itemvalue="Application.TwitterProducer (1)" />
+      <item itemvalue="Application.ElasticSearchConsumerByVivek" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ElasticSearchConsumerByVivek" />
+        <item itemvalue="Application.TwitterProducer (1)" />
+        <item itemvalue="Application.ProducerDemo" />
+        <item itemvalue="Application.TwitterProducer" />
+        <item itemvalue="Application.ConsumerDemoAssignAndSeek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dfce8d7-81f9-4852-99b0-6491b1eba014" name="Default Changelist" comment="" />
+      <created>1580235104973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580235104973</updated>
+      <workItem from="1580235126304" duration="14967000" />
+      <workItem from="1580343927378" duration="4550000" />
+      <workItem from="1580424758111" duration="6527000" />
+      <workItem from="1580760457835" duration="10776000" />
+      <workItem from="1581720313640" duration="581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-consumer-elastic-search/src/main/java/com/vivekchutke/kafka/elasticsearch/ElasticSearchConsumerByVivek.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-consumer-elastic-search/src/main/java/com/vivekchutke/kafka/elasticsearch/ElasticSearchConsumerByVivek.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-consumer-elastic-search/src/main/java/com/vivekchutke/kafka/elasticsearch/ElasticSearchConsumerByVivek.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-consumer-elastic-search/src/main/java/com/vivekchutke/kafka/elasticsearch/ElasticSearchConsumerByVivek.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
